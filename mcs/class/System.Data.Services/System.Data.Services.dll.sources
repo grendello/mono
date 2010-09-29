@@ -10,7 +10,7 @@
 ./System.Data.Services/ExpandSegment.cs
 ./System.Data.Services/IExpandedResult.cs
 ./System.Data.Services/ChangeInterceptorAttribute.cs
-./System.Data.Services/DataService.cs
+./System.Data.Services/DataService`1.cs
 ./System.Data.Services/QueryInterceptorAttribute.cs
 ./System.Data.Services/ExpandSegmentCollection.cs
 ./System.Data.Services/IDataServiceConfiguration.cs
@@ -25,4 +25,16 @@
 ./System.Data.Services/MimeTypeAttribute.cs
 ./System.Data.Services/ProcessRequestArgs.cs
 ./System.Data.Services/DataServiceException.cs
-
+./System.Data.Services.Internal/ExpandedWrapper`1.cs
+./System.Data.Services.Internal/ExpandedWrapper`2.cs
+./System.Data.Services.Internal/ExpandedWrapper`3.cs
+./System.Data.Services.Internal/ExpandedWrapper`4.cs
+./System.Data.Services.Internal/ExpandedWrapper`5.cs
+./System.Data.Services.Internal/ExpandedWrapper`6.cs
+./System.Data.Services.Internal/ExpandedWrapper`7.cs
+./System.Data.Services.Internal/ExpandedWrapper`8.cs
+./System.Data.Services.Internal/ExpandedWrapper`9.cs
+./System.Data.Services.Internal/ExpandedWrapper`10.cs
+./System.Data.Services.Internal/ExpandedWrapper`11.cs
+./System.Data.Services.Internal/ExpandedWrapper`12.cs
+./System.Data.Services.Internal/ExpandedWrapper`13.cs
